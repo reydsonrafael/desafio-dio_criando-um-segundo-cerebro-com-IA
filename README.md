@@ -1,6 +1,7 @@
 # 🧠 Segundo Cérebro com IA — Programação Web
 
 > Projeto desenvolvido como desafio da DIO: criação de um segundo cérebro utilizando inteligência artificial e fontes de conhecimento selecionadas.
+link do caderno: https://notebook.google.com/notebook/4edcb266-e892-45cc-9ae6-e11d5265bcf6
 
 ## 🎯 1. Tema e objetivo
 
