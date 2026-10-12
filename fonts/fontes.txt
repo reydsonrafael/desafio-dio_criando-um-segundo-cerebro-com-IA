@@ -1,0 +1,71 @@
+O caderno **Guia Definitivo de Desenvolvimento Web** conta com **40 fontes cadastradas** 
+Abaixo está a **relação completa de todas as 40 fontes**, indicando o formato, a plataforma/origem e os links identificados no acervo:
+
+---
+
+### 1. Documentações e Guias de Referência Web
+
+1. **Aprendendo desenvolvimento web** *(MDN Web Docs - Mozilla)*
+   * **Formato:** Página Web / Artigo
+   * **Link registrado no material:** [MDN Web Development](https://developer.mozilla.org/pt-BR/docs/Learn_web_development).
+2. **Primeiros passos com JavaScript - Aprendendo desenvolvimento web** *(MDN)*
+   * **Formato:** Página Web / Artigo
+   * **Link registrado no material:** [MDN Core Scripting]([suspicious link removed]).
+3. **Conceitos de internet - HTTP/HTTPS, DNS, DOMÍNIO E SERVIDOR** *(DEV Community)*
+   * **Formato:** Artigo Web
+   * **Link registrado no material:** [DEV Community - Gabriel Duete](https://dev.to/gabrielduete/conceitos-de-internet-httphttps-dns-dominio-e-servidor-1fke).
+4. **Melhores práticas para APIs REST – Exemplos de criação de endpoints REST** *(freeCodeCamp)*
+   * **Formato:** Artigo Web *(cadastrado 2 vezes no caderno)*
+   * **Link registrado no material:** [freeCodeCamp Artigo REST]([suspicious link removed]).
+5. **Exercícios de lógica de programação JavaScript com gabarito** *(Hora de Codar)*
+   * **Formato:** Artigo Web
+   * **Link registrado no material:** [Hora de Codar - Exercícios](https://horadecodar.com.br/exercicios-de-logica-de-programacao-javascript/).
+6. **27 ideias de projeto web de junior até sênior** *(Reddit - r/brdev)*
+   * **Formato:** Discussão / Fórum Web *(cadastrado 2 vezes no caderno)*
+   * **Link registrado no material:** [Reddit r/brdev Post]([suspicious link removed]).
+
+---
+
+### 2. Artigos e Tutoriais Web (Acessíveis pelo Painel Lateral de Fontes)
+
+Para os itens abaixo, o acesso ao link original cadastrado pode ser feito diretamente no painel esquerdo do seu caderno:
+
+7. **10 Projetos Fáceis para Aprender HTML, CSS e JavaScript** *(Programação For Kids)* — Artigo Web
+8. **5 Melhores Livros JavaScript Para Desenvolvedores** *(DIO - Digital Innovation One)* — Artigo Web
+9. **API REST: O que é, como funciona e as principais diferenças** *(Focus NFe)* — Artigo Web
+10. **Angular vs React vs Vue.js** *(Alura Cursos Online)* — Artigo Web
+11. **Aprenda a programar — de graça — Cursos de programação para pessoas ocupadas** *(freeCodeCamp)* — Página Web
+12. **CSR, SSR e SSG: entenda as diferenças e aplicações** *(Alura Cursos Online)* — Artigo Web *(2 entradas cadastradas)*
+13. **Como começar a programar do zero: guia completo para aprender programação em 2026** *(Alura)* — Artigo Web
+14. **Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS]** *(Curso em Vídeo)* — Página de Curso Web
+15. **Docker: o guia completo para usar e dominar containers** *(Green Tecnologia)* — Artigo Web *(2 entradas cadastradas)*
+16. **Gerenciamento de Estado em React: por que e como usar o Zustand** *(Alura Cursos Online)* — Artigo Web *(2 entradas cadastradas)*
+17. **HTML, CSS e Javascript, quais as diferenças?** *(Alura Cursos Online)* — Artigo Web
+18. **JWT na Prática: estrutura, fluxo de autenticação, refresh token e segurança (2026)** *(Do Zero ao Junior)* — Artigo Web *(2 entradas cadastradas)*
+19. **O que é Front-end, Back-end e Full Stack? Aprenda as diferenças entre essas áreas** *(Alura)* — Artigo Web
+20. **Performance front-end: arquitetura, otimização e métricas** *(Wicomm)* — Artigo Web *(2 entradas cadastradas)*
+21. **Roadmap Front-End na Prática: Do Zero ao Avançado (Série Completa)** *(TabNews)* — Artigo Web
+22. **Roadmap Frontend 2026: Guia Completo para Começar do Zero** *(Hashtag Treinamentos)* — Artigo Web
+23. **SOLID: o que é e quais os 5 princípios da Programação Orientada a Objetos (POO)** *(Alura)* — Artigo Web *(2 entradas cadastradas)*
+24. **Testes automatizados: guia prático para aplicar no código** *(Hashtag Treinamentos)* — Artigo Web *(2 entradas cadastradas)*
+25. **Um Guia Extensivo de Padrões de Design JavaScript** *(Kinsta)* — Artigo Web *(2 entradas cadastradas)*
+
+---
+
+### 3. Vídeos (YouTube)
+
+26. **Aprenda Programação Web do ZERO - COMECE POR AQUI** *(YouTube)* — Conteúdo audiovisual introdutório
+27. **Desenvolvimento Web com JavaScript, HTML, e CSS Nível Iniciante (+10 horas de vídeo)** *(YouTube / freeCodeCamp em Português)* — Curso prático completo com 10 projetos guiados
+
+---
+
+### 4. Apostilas e Livros Digitais (Arquivos PDF)
+
+Estes materiais foram carregados como arquivos locais no caderno, não possuindo links HTTP externos:
+
+28. **Lógica de Programação e Algorítmos com JavaScript** *(Kufunda)* — Livro/Apostila em PDF
+29. **apostila-html-css-javascript.pdf** *(Kufunda / Caelum)* — Apostila técnica em PDF
+30. **apostila-html-css-javascript.pdf** *(Salthe Ebooks / Caelum)* — Cópia da apostila técnica em PDF
+
+---
+
